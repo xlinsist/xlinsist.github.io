@@ -1,4 +1,4 @@
-# One Page About Me {docsify-ignore}
+# One Page About Me
 
 My name is Xulin Zhou（周旭林）, an undergraduate student at [Jinan University(JNU)](https://english.jnu.edu.cn/) majoring in *Intelligence Science and Technology*. I am to study for a master's degree at [Institute of Software, Chinese Academy of Sciences(ISCAS)](http://www.is.cas.cn/) in September 2023. 
 

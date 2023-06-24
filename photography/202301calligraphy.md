@@ -1,6 +1,6 @@
 # 城市摄影记录——民间书法
 
-> 在蒸发的那一瞬间化做永恒。
+> 艺术在蒸发的那一瞬间化做永恒。
 
 <div align=center>
 <img src="photography/202301calligraphy/poetry2.jpg" width = "100%" >

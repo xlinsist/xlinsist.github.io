@@ -50,20 +50,32 @@
 <img src="photography/202210children/7.jpg" width = "60%" >
 </div>
 
-<!-- ---
+---
 
 <div align=center>
-<img src="photography/202210children/8.jpg" width = "60%" >
+<img src="photography/202210children/11.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/202210children/11.jpg" width = "60%" >
+<img src="photography/202210children/12.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/202210children/12.jpg" width = "60%" >
-</div> -->
+<img src="photography/202210children/13.jpg" width = "100%" >
+</div>
+
+---
+
+<div align=center>
+<img src="photography/202210children/14.jpg" width = "60%" >
+</div>
+
+---
+
+<div align=center>
+<img src="photography/202210children/15.jpg" width = "60%" >
+</div>

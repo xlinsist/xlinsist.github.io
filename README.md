@@ -6,7 +6,7 @@ My name is Xulin Zhou（周旭林）, an undergraduate student at [Jinan Univers
 
 # Fun Stuffs
 
-In my spare time, I wrote [several columns](/blogs/main.md) to summarize thinking patterns and miscellaneous insights from my experiences and reading. Writing can help me better condense my thoughts and express myself. Currently, I am particularly interested in music and photography.
+In my spare time, I wrote [several columns](/blogs/columns/main.md) to summarize thinking patterns and miscellaneous insights from my experiences and reading. Writing can help me better condense my thoughts and express myself. Currently, I am particularly interested in music and photography.
 
 **I love music**. Since I usually glue to the computer screen for work, music is the spice of my life. The motivation to dive into music comes from the enthusiasm for pursuing a rich listening experience, just like the desire to travel to different cities and encounter exotic customs. Instead of being content with melodious songs, I will actively expose myself to various styles of music, whether classical or modern, in order to explore a more sophisticated *musical aesthetic*. I am also keen on music theory and learning [transcription of my favorate songs](https://www.mubucm.com/doc/6rwIq_gvp2m).
 

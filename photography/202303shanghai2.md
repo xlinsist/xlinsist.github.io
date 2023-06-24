@@ -28,8 +28,6 @@
 
 ---
 
----
-
 <div align=center>
 <img src="photography/202303shanghai2/IMG_20230327_111556.jpg" width = "100%" >
 
@@ -142,6 +140,7 @@
 <div align=center>
 <img src="photography/202303shanghai2/IMG_20230327_221739.jpg" width = "60%" >
 </div>
+
 ---
 
 <div align=center>

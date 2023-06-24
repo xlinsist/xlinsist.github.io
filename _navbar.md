@@ -1,3 +1,3 @@
 * [About](README.md)
-* [Blogs](/blogs/columns/main.md)
+* [Blogs](/blogs/main.md)
 * [Photography](/photography/main.md)

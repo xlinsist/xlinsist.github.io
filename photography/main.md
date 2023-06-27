@@ -14,7 +14,7 @@
 
 # 城市居民  
 ## [城市摄影记录——平民](photography/202204citizens.md)
-> 关注身边那些不起眼的普通人。
+> 关注身边的普通人。
 ## [城市摄影记录——人际](photography/202208citizens.md)
 > 捕捉身边人际关系所形成的氛围感。
 
@@ -22,8 +22,6 @@
 # 城市故事
 ## [城市摄影记录——生活幽默](photography/202205humor.md)
 > 用照片讲些有意思的故事。
-## [城市摄影记录——烟火气](photography/202211bustle.md)
-> 收集夜幕降临后的人生百态。
 ## [城市摄影记录——民间书法](photography/202301calligraphy.md)
 > 艺术在蒸发的那一瞬间化做永恒。
 ## [高中回忆录——广州大学城露营](https://weloveclassfive.github.io/)

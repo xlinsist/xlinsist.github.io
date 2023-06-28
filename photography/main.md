@@ -13,14 +13,14 @@
 ---
 
 # 城市居民  
-## [城市摄影记录——平民](photography/202204citizens.md)
+## [城市摄影记录——平民](photography/citizens.md)
 > 关注身边的普通人。
-## [城市摄影记录——人际](photography/202208citizens.md)
+## [城市摄影记录——人际](photography/relationship.md)
 > 捕捉身边人际关系所形成的氛围感。
 
 ---
 # 城市故事
-## [城市摄影记录——生活幽默](photography/202205humor.md)
+## [城市摄影记录——生活幽默](photography/humor.md)
 > 用照片讲些有意思的故事。
 ## [城市摄影记录——民间书法](photography/202301calligraphy.md)
 > 艺术在蒸发的那一瞬间化做永恒。

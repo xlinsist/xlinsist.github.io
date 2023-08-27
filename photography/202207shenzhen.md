@@ -163,5 +163,5 @@
 <div align=center>
 <img src="photography/202207shenzhen/travel4.jpg" width = "100%" >
 
-奋斗者的城市，于2023年3月
+奋斗者的城市，于2022年7月
 </div>

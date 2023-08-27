@@ -279,7 +279,7 @@
 <div align=center>
 <img src="photography/202303shanghai1/mmexport1679881553469.jpg" width = "100%" >
 
-开源社区线下meetup在上海！
+RISC-V开源社区线下meetup在上海！
 </div>
 
 ---

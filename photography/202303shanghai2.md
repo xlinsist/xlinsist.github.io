@@ -71,7 +71,7 @@
 <div align=center>
 <img src="photography/202303shanghai2/IMG_20230327_215454.jpg" width = "60%" >
 
-值得同等敬重的人民英雄
+人民英雄
 </div>
 
 ---
@@ -87,7 +87,7 @@
 <div align=center>
 <img src="photography/202303shanghai2/IMG_20230327_215657.jpg" width = "60%" >
 
-世博会的工人错脚插袋靠着讲电话
+世博会的工人
 </div>
 
 ---
@@ -124,7 +124,7 @@
 <div align=center>
 <img src="photography/202303shanghai2/IMG_20230327_082409.jpg" width = "60%" >
 
-城隍庙商业街的夫妇准备收摊
+城隍庙商业街的夫妇
 </div>
 
 ---
@@ -152,7 +152,7 @@
 <div align=center>
 <img src="photography/202303shanghai2/Collage_20230327_224608.jpg" width = "100%" >
 
-从世博馆出来，有销售员为了完成流量KPI在集体兜售抱枕鸭子。当我在抓拍时，一个鸭子刚好从我的视野右边探头进来，问我喜欢的话要不要带一个回去，帮他用手机做些操作支持一下就可以免费送（统一回复：最后没拿人家鸭子）
+从世博馆出来，有销售员在集体兜售抱枕鸭子。当我在抓拍时，一个鸭子刚好从我的视野右边探头进来，问我喜欢的话要不要带一个回去，帮他用手机做些操作支持一下就可以免费送（统一回复：最后没拿人家鸭子）
 </div>
 
 ---

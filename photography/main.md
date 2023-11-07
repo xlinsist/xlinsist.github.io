@@ -1,14 +1,10 @@
 > 平日里拍了很多有意思的照片，分门别类有平民特写专题、人际关系专题、生活幽默专题、城市风貌专题等。于是就取名为了“城市摄影记录”，将它们展览在这里。
 
+**若图片加载缓慢，请移步：https://xlinsist.gitee.io/#/photography/main**
+
 <div align=center>
 <img src="photography/selected/gardeners.webp" width = "100%" >
 </div>
-
-<!-- <img src="photography/selected/gardeners.webp" width = "300" height = "168"> <img src="photography/selected/hongkong.jpg" width = "300" height = "168" >
-<img src="photography/selected/worker-in-green.webp" width = "135" height = "220" > <img src="photography/selected/observations.webp" width = "330" height = "220"> <img src="photography/selected/gardener.webp" width = "135" height = "220" >
-<img src="photography/selected/rocket.jpg" width = "300" height = "168" >
-<img src="photography/selected/statue.jpg" width = "300" height = "168" >
-<img src="photography/selected/ignore.webp" width = "300" height = "168" > <img src="photography/selected/smoke.webp" width = "300" height = "168" >  -->
 
 ---
 

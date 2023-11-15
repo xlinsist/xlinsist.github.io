@@ -33,3 +33,8 @@
 # 学科心得
 ## [道德哲学与行事依据](blogs/about-ethics.md)
 ## [关于音乐](blogs/about-music.md)
+
+<!-- ---
+
+# 阶段总结
+## [2023年度总结（WIP）](summaries/2023.md) -->

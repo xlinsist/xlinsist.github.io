@@ -2,7 +2,7 @@
 
 # **xlinsist's blog**
 
-Lovely sunny doll symbolizes quiet state of mind.
+Fake it till you make it.
 
 [Explore](README.md)
 

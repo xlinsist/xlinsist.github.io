@@ -13,7 +13,9 @@
 ## [道德哲学与行事依据](blogs/subjects/about-ethics.md)
 > 介绍9种来自西方哲学的行事依据参考标准。
 ## [好音乐与好听众](blogs/subjects/about-music.md)
-> 提倡主动地有思考地去听音乐，概述如何鉴赏音乐。
+> 提倡主动地有思考地去听音乐，分享些鉴赏音乐的心得。
+## [摄影与艺术](blogs/subjects/about-photography.md)
+> 用艺术和审美的角度看待摄影。
 
 ---
 

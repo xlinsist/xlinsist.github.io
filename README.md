@@ -9,7 +9,7 @@ Now I am working on compiler optimization based on RISC-V instruction set at [In
 
 **Writing is my long-standing habit.** I have been keeping a diary since high school. Parts of the diaries are organized as [several columns](/blogs/main.md) to summarize thinking patterns and miscellaneous insights from my experiences and reading. 
 
-**I consider myself a lifelong explorer with passions for photography and trekking.** Living in the city, I enjoy taking photos to record urban life and culture, and organize them into [street photography works](/photography/main.md). When I venture outdoors, I find great joy in meeting with local residents and discovering a world of different dimensions.
+**I consider myself an adventurer with passions for photography and trekking.** Living in the city, I enjoy taking photos to record urban life and culture, and organize them into [street photography works](/photography/main.md). When I am outdoors, I find great joy in experiencing different life styles and discovering a world of different dimensions.
 
 <div align=center>
 <img src="imgs/selfie-xiangshan.jpg" width = "60%" >

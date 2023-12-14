@@ -14,5 +14,5 @@ Now I am working on compiler optimization based on RISC-V instruction set at [In
 <div align=center>
 <img src="imgs/selfie-xiangshan.jpg" width = "60%" >
 
-Listen! The Orchestra Of Nature
+Listen! The Orchestra of Nature.
 </div>

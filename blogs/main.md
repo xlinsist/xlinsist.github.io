@@ -2,11 +2,11 @@
 
 ---
 
-<!-- # 阶段总结
-## [2023年度总结](blogs/summaries/2023.md)
+# 阶段总结
+## [2023年总结](blogs/summaries/2023.md)
 > 也是对这个专栏的一个元总结。
 
---- -->
+---
 
 # 学科心得
 ## [道德哲学与行事依据](blogs/subjects/about-ethics.md)

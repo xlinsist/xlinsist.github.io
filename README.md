@@ -1,3 +1,5 @@
+> **See my 2023 summary [here](blogs/summaries/2023.md).**
+
 # About Me
 
 My name is Xulin Zhou(周旭林), a first year postgraduate student at [University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/) in Beijing. I graduated from [Jinan University](https://www.jnu.edu.cn/main.htm)  with a bachelor's degree in 2023. I was born and bred in Dongguan.

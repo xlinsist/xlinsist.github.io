@@ -20,9 +20,9 @@
 
 # 生活思考
 ## [第一章：认识自己](blogs/columns/know-yourself.md)
-> 具备危机意识，坚信主观能动性，坚守差异，发挥影响力。
+> 处理对外的人际关系本质上是在处理与自己的关系。
 ## [第二章：把事情分层](blogs/columns/multiple-views.md)
-> 世界是丰富的。要能理解同一事物的多种维度，并能自如地在各个维度中切换视角。
+> 理解同一事物的多种维度，并能自如地在各个维度中切换视角。
 ## [第三章：把握主线](blogs/columns/main-task.md)
 > 掌握“混”日子的方法，去做真正有意义的事情。
 ## [第四章：长期规划](blogs/columns/long-term-planning.md)

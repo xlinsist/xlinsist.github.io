@@ -6,6 +6,13 @@
 <img src="photography/selected/gardeners.webp" width = "100%" >
 </div>
 
+
+---
+
+# 指导思想
+## [照片、摄影与艺术](blogs/subjects/about-photography.md)
+> 从审美的角度看待艺术，用艺术的要求对待摄影。
+
 ---
 
 # 城市居民  

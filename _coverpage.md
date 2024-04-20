@@ -2,7 +2,7 @@
 
 # **xlinsist's blog**
 
-Fake it till you make it.
+Stick to yourself for life.
 
 [Explore](README.md)
 

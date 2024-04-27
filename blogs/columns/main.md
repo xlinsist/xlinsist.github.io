@@ -1,9 +1,9 @@
-> 从中国的大学教育“早已崩溃”开始说起。
-## [专栏写作初衷](blogs/columns/writing-motivation.md)
-
----
-
 # 生活思考
+
+## [专栏写作初衷](blogs/columns/writing-motivation.md)
+> 从中国的大学教育“早已崩溃”开始说起。
+
+----
 
 ## [第二章：把事情分层](blogs/columns/multiple-views.md)
 > 理解同一事物的多种维度，并能自如地在各个维度中切换视角。
@@ -20,13 +20,3 @@
 ## [第八章：回归初心](blogs/columns/stay-true.md)
 > 人是好奇世界并渴望互动的感性个体。人是目的不是手段。
 
----
-
-# 学科心得
-
-## [道德哲学与行事依据](blogs/subjects/about-ethics.md)
-> 介绍九种来自西方哲学的行事依据参考标准。
-## [浅谈听音乐的境界](blogs/subjects/about-music.md)
-> 提倡主动地有思考地去听音乐，分享些鉴赏音乐的心得。
-## [照片、摄影与艺术](blogs/subjects/about-photography.md)
-> 从审美的角度看待艺术，用艺术的要求对待摄影。

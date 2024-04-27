@@ -1,10 +1,10 @@
 # 阶段总结
 
-## [2024年：新年寄语](blogs/summaries/2024-greeting.md)
-> 敬雁栖湖里的第一个学期。
+## [2024年：学科心得](blogs/subjects/main.md)
+> 研一的~~学科~~蹭课心得。
 
-## [2023年：生活思考与学科心得](blogs/columns/main.md)
-> 大学毕业了，总结经验写个专栏吧。
+## [2023年：生活思考](blogs/columns/main.md)
+> 写个专栏为大学生活划上句号。
 
 ## [2022年：城市摄影记录](/photography/main.md)
 > 将手机相册整理成照片长廊。

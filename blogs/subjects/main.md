@@ -96,7 +96,10 @@
 - [浅谈听音乐的境界](blogs/subjects/about-music.md)
 - [照片、摄影与艺术](blogs/subjects/about-photography.md)
 
-生活思考：
-- [学术道德规范中的盖梯尔问题](blogs/gossips/gettier-in-academic.md)
+日常随笔：
+- [2024年元旦寄语](blogs/gossips/2024-greeting.md)
+- [我是如何整理桌面的](blogs/gossips/how-to-clean-up.md)
 - [从不同的时间尺度理解“失败”的内涵](blogs/gossips/understand-failure.md)
+- [学术道德规范中的盖梯尔问题](blogs/gossips/gettier-in-academic.md)
+- [《学术写作规范》文献阅读和点评](blogs/gossips/literature-reading.md)
 - [ChatGPT能成为强人工智能吗](blogs/gossips/can-chatgpt-be-strong-ai.md)

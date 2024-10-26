@@ -1,16 +1,11 @@
 # 阶段总结
 
 ## [2024年：领队小记 | 乌孙古道八日重装穿越](blogs/travel/wusun/main.md)
-> 历经了一路上的森林、沼泽、暴雨、狂风、冰雹、激流、碎石、悬崖、雪山、戈壁后，最终收获到智慧、友谊与勇气。
 
-## [2024年：学科心得](blogs/subjects/main.md)
-> 研一生活是一个宝贵的实践课堂。
+## [2024年：生活思考与学科心得](blogs/subjects/main.md)
 
-## [2023年：生活思考](blogs/columns/main.md)
-> 写个专栏为大学生活划上句号。
+## [2023年：自我管理专栏](blogs/columns/main.md)
 
 ## [2022年：城市摄影记录](/photography/main.md)
-> 将手机相册整理成照片长廊。
 
 ## [2021年：光阴里的便利贴](blogs/gossips/main.md)
-> 摘录高中和大学阶段的日常随笔。

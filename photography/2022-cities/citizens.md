@@ -9,49 +9,49 @@
 ---
 
 <div align=center>
-<img src="photography/citizens/bucket.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/bucket.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/dog.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/dog.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/bend.webp" width = "100%" >
+<img src="photography/2022-cities/citizens/bend.webp" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/hongkong.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/hongkong.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/IMG_20230529_163609.jpg" width = "60%" >
+<img src="photography/2022-cities/citizens/IMG_20230529_163609.jpg" width = "60%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/smoke.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/smoke.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/lattern.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/lattern.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/temple.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/temple.jpg" width = "100%" >
 </div>
 
 ---
@@ -61,43 +61,43 @@
 ---
 
 <div align=center>
-<img src="photography/citizens/IMG_20230428_140923.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/IMG_20230428_140923.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/stairs.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/stairs.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/lake.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/lake.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/gardener.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/gardener.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/repair.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/repair.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/walk-towards-store.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/walk-towards-store.jpg" width = "100%" >
 </div>
 
 ---
 
 <div align=center>
-<img src="photography/citizens/walk-on-bridge.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/walk-on-bridge.jpg" width = "100%" >
 </div>
 
 ---
@@ -107,7 +107,7 @@
 ---
 
 <div align=center>
-<img src="photography/citizens/observations.jpg" width = "100%" >
+<img src="photography/2022-cities/citizens/observations.jpg" width = "100%" >
 
 连续十二天下午同一时刻做核酸穿过地下隧道所见
 </div>

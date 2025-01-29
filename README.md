@@ -7,9 +7,9 @@ My name is Xulin Zhou(周旭林), a second year postgraduate student at [Institu
 **Writing is my long-standing habit.** I have been keeping a diary since high school. Parts of the diaries are organized as [several columns](/blogs/main.md) to summarize miscellaneous insights from my experiences and reading. 
 
 Living in the city, I like taking photos to record urban life and organize them into [street photography works](/photography/2022-cities/main.md). When I am outdoors, I like [trekking](photography/2024-wusun/main.md) because I enjoy the contrast between the vibrant conversation with dependable companions during the day and the quiet solitude of boiling water by my tent at night.
-<!-- 
-<div align=center>
-<img src="imgs/selfie-xiangshan.jpg" width = "60%" >
 
-Listen! The Orchestra of Nature.
-</div> -->
+<div align=center>
+<img src="imgs/big-and-small.jpg" width = "100%" >
+
+Gazing at the Infinite
+</div>

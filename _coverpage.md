@@ -1,4 +1,4 @@
-<img width="160px" style="border-radius: 50%" bor src="imgs/avatar.jpg">
+<img width="160px" style="border-radius: 50%" bor src="imgs/avatar.webp">
 
 # **xlinsist's blog**
 

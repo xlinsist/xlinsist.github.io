@@ -9,7 +9,7 @@ My name is Xulin Zhou(周旭林), a second year postgraduate student at [Institu
 Living in the city, I like taking photos to record urban life and organize them into [street photography works](/photography/2022-cities/main.md). When I am outdoors, I like [trekking](photography/2024-wusun/main.md) because I can experience different possibilities of life.
 
 <div align=center>
-<img src="imgs/trekking.jpg" width = "100%" >
+<img src="imgs/trekking.webp" width = "100%" >
 
 <!-- Gazing at the Infinite -->
 </div>

@@ -2,7 +2,7 @@
 
 # **xlinsist's blog**
 
-Stick to yourself for life.
+to summarize miscellaneous insights of my life
 
 [Explore](README.md)
 

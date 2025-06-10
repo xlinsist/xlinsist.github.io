@@ -3,6 +3,9 @@
 
 ## Postgraduate
 
+### [2025年度总结（WIP）](blogs/2025-summary.md)
+
+----
 ### [2024年（三）：生活思考与年度总结](blogs/2024-summary/2024-summary.md)
 
 ### [2024年（二）：领队小记 | 乌孙古道八日重装穿越](photography/2024-wusun/main.md)

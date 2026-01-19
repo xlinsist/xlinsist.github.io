@@ -4,7 +4,7 @@
 
 My name is Xulin Zhou(周旭林), a graduate student at [Institute of Software, Chinese Academy of Sciences(ISCAS)](http://www.is.cas.cn/) in Beijing. I graduated from [Jinan University](https://www.jnu.edu.cn/main.htm)  with a bachelor's degree in 2023. I was born and bred in Dongguan.
 
-**My research interests lie in *Parallel Computing and Compiler Optimization***. I have served as a maintainer and contributor to several open-source compiler projects. See my personal statement [here](/projects/PS.md).
+**My research interests lie in *Parallel Computing and Compiler Optimization***. As a member of [PLCT lab](https://github.com/plctlab/PLCT-Weekly), I have served as a maintainer and contributor to several open-source compiler projects. See my personal statement [here](/projects/PS.md).
 
 **Writing is my long-standing habit.** I have been keeping a diary since high school. Parts of the diaries are organized as [several columns](/blogs/main.md) to summarize miscellaneous insights from my experiences and reading. 
 

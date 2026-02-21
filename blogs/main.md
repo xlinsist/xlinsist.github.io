@@ -3,7 +3,9 @@
 
 ## Postgraduate
 
-### [2025年度总结（WIP）](blogs/2025-summary/2025-summary.md)
+### [2025年（二）：年度总结（WIP）](blogs/2025-summary/2025-summary.md)
+
+<!-- ### [2025年（二）：北苏门答腊游记 | 巴塔克族民俗文化一瞥](photography/2025-sumatra/main.md) -->
 
 ### [2025年（一）：学术写作心得](blogs/2025-summary/writing-advice.md)
 
